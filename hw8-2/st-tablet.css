@@ -1,0 +1,14 @@
+@media screen and (min-width: 769px) and (max-width: 1279px){
+
+    section{
+        padding: 32px 24px 48px 24px;
+        width: 768px;
+        gap: 24px;
+    }
+    article p{
+        width: 348px;
+    }
+    article{
+        margin-top: 16px;
+    }
+}
