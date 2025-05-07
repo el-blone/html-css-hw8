@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper-1180{
+    height: 772px;
+    width: 1180px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+    padding: 64px 48px;
+    margin: 0 auto;
+}
+img{
+    height: 279px;
+    width: 372px;
+    border-radius: 10px;
+}
+article h3{
+    color: #000;
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 24px */
+    margin-top: 20px;
+}
+article p{
+    color: #3C3C43;
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 15.6px */
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
